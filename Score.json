@@ -1,0 +1,7 @@
+{
+    "players":[
+        {"name": "Doron", "score": "100"},
+        {"name": "Omer", "score": "150"},
+        {"name": "Shahar", "score": "80"}
+    ]
+}
